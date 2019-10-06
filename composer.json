@@ -1,0 +1,25 @@
+{
+  "name":        "inwebo/iso-4217",
+  "description": "ISO 4217 is a standard first published by International Organization for Standardization in 1978, which delineates currency designators, country codes (alpha and numeric).",
+  "type":        "library",
+  "license":     "GPL-3.0-or-later",
+  "keywords": ["php 7", "iso-4217", "currency"],
+  "homepage": "https://github.com/inwebo/iso-4217",
+  "authors": [
+    {
+      "name": "inwebo"
+    }
+  ],
+  "require": {
+    "php": ">=7.2"
+  },
+  "autoload": {
+    "psr-4": { "Inwebo\\Currency\\Model": "" }
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "git@github.com:inwebo/iso-4217"
+    }
+  ]
+}
