@@ -14,7 +14,7 @@
     "php": ">=7.2"
   },
   "autoload": {
-    "psr-4": { "Inwebo\\Currency\\Model": "" }
+    "psr-4": { "Inwebo\\Currency\\Model\\": "" }
   },
   "repositories": [
     {
