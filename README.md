@@ -7,3 +7,9 @@ ISO 4217 is a standard first published by International Organization for Standar
 * Table A.3 – List of codes for historic denominations of currencies & funds
 
 Only Table A.1 and Table A.2 are cover.
+
+## Installation
+
+```bash
+composer require inwebo/iso-4217
+```
